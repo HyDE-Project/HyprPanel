@@ -4,7 +4,7 @@
 ![241005_14h26m11s_screenshot](https://github.com/user-attachments/assets/e7551bec-573c-4d37-91b9-de9400176cac)
 ![241005_14h19m51s_screenshot](https://github.com/user-attachments/assets/11f40837-08fe-4979-b16e-b1d0a6fd4fcd)
 
-### Wallbash Template for HyprPanel
+## Wallbash Template for HyprPanel
 
 This template is designed for use with the latest version of [HyprPanel](https://hyprpanel.com/) (Astal-based). 
 
