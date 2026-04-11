@@ -15,9 +15,15 @@ This template is designed for use with the latest version of [HyprPanel](https:/
 
 Because of how HyprPanel handles button styling, this repository provides two different `.dcol` files. You must choose **only one** based on your HyprPanel settings:
 
-*   **`hyprpanel.dcol`**: Designed for the regular/default bar style. **Do not** use this template if you use split buttons, as it is not adapted for it.
-*   **`hyprpanel_split.dcol`**: Specifically adapted for the split button style (where the icon sits on top of a background). 
+*   **`hyprpanel.dcol`**: Designed for the regular/default bar style.
+    <img width="2558" height="108" alt="image" src="https://github.com/user-attachments/assets/bcd2ec20-f732-4edf-9ade-412254aee90f" />
+
+*   **`hyprpanel_split.dcol`**: Specifically adapted for the split button style (where the icon sits on top of a background).
+    <img width="2558" height="119" alt="image" src="https://github.com/user-attachments/assets/21b5d385-9b55-449b-86df-13042bc84e22" />
+        
     *   *To use this template, you must enable it in HyprPanel:* Go to **Settings -> Bar -> Button Style -> change from `default` to `split`**.
+         <img width="873" height="338" alt="image" src="https://github.com/user-attachments/assets/9aeb3835-9810-40f7-a824-b12d59a2fa76" />
+    
 
 ## Usage
 
