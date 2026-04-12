@@ -14,6 +14,7 @@ ${cacheDir}/landing/wallbash-hyprpanel.json | astal -i hyprpanel useTheme ${cach
   "background": "#<wallbash_pry1>",
   "editorbackground": "#<wallbash_pry1>",
   "theme.bar.background": "#<wallbash_pry1>",
+  "theme.bar.border.color": "#<wallbash_2xa7>",
   "theme.bar.menus.check_radio_button.background": "#<wallbash_pry1>",
   "theme.bar.menus.check_radio_button.active": "#<wallbash_txt1>",
   "theme.bar.menus.background": "#<wallbash_pry1>",
