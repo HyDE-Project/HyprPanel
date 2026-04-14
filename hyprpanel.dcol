@@ -17,7 +17,7 @@ ${cacheDir}/landing/wallbash-hyprpanel.json | astal -i hyprpanel useTheme ${cach
   "theme.bar.border.color": "#<wallbash_2xa7>",
   "theme.bar.menus.check_radio_button.background": "#<wallbash_pry1>",
   "theme.bar.menus.check_radio_button.active": "#<wallbash_txt1>",
-  "theme.bar.menus.background": "#<wallbash_pry1>",
+  "theme.bar.menus.background": "#<wallbash_2xa2>",
   "theme.bar.menus.popover.text": "#<wallbash_2xa9>",
   "theme.bar.menus.popover.background": "#<wallbash_pry1>",
   "theme.bar.menus.popover.border": "#<wallbash_2xa7>",
